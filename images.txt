@@ -1,1 +1,2 @@
 yohe/nastool
+jellyfin/jellyfin
